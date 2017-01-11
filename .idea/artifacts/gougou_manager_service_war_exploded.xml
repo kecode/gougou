@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gougou-manager-service:war exploded">
+    <output-path>$PROJECT_DIR$/gougou-manager-service/target/gougou-manager-service</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gougou-manager-service" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/gougou-manager-service/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="gougou-manager-service/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gougou-common/gougou-common.iml" filepath="$PROJECT_DIR$/gougou-common/gougou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gougou-manager/gougou-manager.iml" filepath="$PROJECT_DIR$/gougou-manager/gougou-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gougou-manager-mapper/gougou-manager-mapper.iml" filepath="$PROJECT_DIR$/gougou-manager-mapper/gougou-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gougou-manager-pojo/gougou-manager-pojo.iml" filepath="$PROJECT_DIR$/gougou-manager-pojo/gougou-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gougou-manager-service/gougou-manager-service.iml" filepath="$PROJECT_DIR$/gougou-manager-service/gougou-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gougou-manager-web/gougou-manager-web.iml" filepath="$PROJECT_DIR$/gougou-manager-web/gougou-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gougou-parent/gougou-parent.iml" filepath="$PROJECT_DIR$/gougou-parent/gougou-parent.iml" />
+    </modules>
+  </component>
+</project>

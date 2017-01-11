@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gougou-common:war">
+    <output-path>$PROJECT_DIR$/gougou-common/target</output-path>
+    <root id="archive" name="gougou-common.war">
+      <element id="artifact" artifact-name="gougou-common:war exploded" />
+    </root>
+  </artifact>
+</component>

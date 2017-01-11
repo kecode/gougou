@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gougou-manager:war">
+    <output-path>$PROJECT_DIR$/gougou-manager/target</output-path>
+    <root id="archive" name="gougou-manager.war">
+      <element id="artifact" artifact-name="gougou-manager:war exploded" />
+    </root>
+  </artifact>
+</component>
